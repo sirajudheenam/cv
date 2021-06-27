@@ -1,0 +1,173 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Sirajudheen Mohamed Ali
+    tagline: DevOps Consultant
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: sirajudheenam@gmail.com
+    phone:
+    website: sirajudheenam.github.io #do not add http://
+    linkedin: sirajudheen
+    xing: sirajudheenam
+    github: sirajudheenam
+    telegram: buzzmesam # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@buzzmesam'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Fluent
+
+      - idiom: German
+        level: Beginner
+
+
+    interests:
+      - item: DIY Electronics
+        link:
+
+      - item: Reading
+        link:
+
+      - item: Personal Developemnt
+        link:
+
+      - item: Algo Trading
+        link:
+        
+career-profile:
+    title: Career Profile
+    summary: |
+      Helping customers with on-boarding to Openstack based Cloud and automate their environments using Terraform and Chef. Highly motivated and extremely satisfied with my job when I see my clients happy face after my technical proposals and engagements.
+education:
+    - degree: MSc in Computer Science
+      university: Bharathidasan University
+      time: 2001 - 2003
+      details: |
+        2 years course with 6 months dissertation work.
+          - C++, Java, UML, Networks, Advanced OS
+          - Second Rank
+          - Completed an Accounting Package for Public Sector Company
+    - degree: BSc in Chemistry
+      university: Bharathidasan University
+      time: 1998 - 2001
+      details: |
+        Three years graduation course.
+          - Physics, Mathematics & Chemistry
+
+experiences:
+    - role: Senior DevOps Consultant / Solutions Developer 
+      time: 2015 - Present
+      company: SAP SE, Berlin, Germany
+      details: |
+        Provide excellent technical service on different forms through answering various technical and architectural questions and resolving cloud consumers issues. Ensure enterprise demand management through planning, estimation, and sizing of infrastructure needs in the cloud. Design and conduct training sessions based on internal cloud and lead the DevOps team to maintain and build out the infrastructure and servers currently operating on AWS, OpenStack, and Cloud Foundry. Lead project tasks, work with architects, project managers, and external consultants working on delivery of solutions, including the engineering/maintenance of cloud automation, application configuration, and workflow automation tools.
+          - Developed a solid relationship with clients by interacting with customers during on-boarding process to OpenStack based internal Cloud Platform runs on k8s.
+          - Introducing the process in which the team operates and iterates/releases code through lifecycles Dev Test, Staging, and Production.
+          - Enhanced knowledge and skills of team members by conducting various internal Knowledge Transfer sessions on OpenStack Swift.
+ 
+    - role: Senior IT Consultant
+      time: 2013 - 2015
+      company: Tata Consultancy Services, Pune
+      details: |
+        Enhanced internal communication between all Data Centres yielding improved collaboration, process alignment, and decreased inconsistency across the enterprise globally. Defined metrics and processes to effectively measure the quality of work done.
+          - Provided innovative solutions through various Proof-of-Concepts on VMWare technologies and SENSU to reach technical decisions.
+          - Controlled hardware and cabling delivery for various Data Centres around the globe and delivered support on VMWARE components such ESXi and vCenter.
+          - Successfully reduced average build time by 60% using various automation tools and techniques.
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: GoLang
+        level: 85%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 90%
+
+      - name: Javascript & jQuery
+        level: 88%
+
+      - name: Python & Django
+        level: 38%
+
+      - name: Angular
+        level: 38%
+
+
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
